@@ -18,6 +18,7 @@ __Simulation__
 
 Since we cannot generate 100MHz clock with the testbench, we were unable to use the simulation feature. Instead, we tested by writing the program onto the FPGA board. We played the game for several minutes, and checked that all intended features are working.
 We checked the following:
+
 	* The snake moves in the direction the user specified
 	* If user does not input anything, it moves in the direction it moved last
 	* If the head of the snake overlaps the food (green), the food is consumed (disappeared) and the snake length grows by 1 (until the snake length is equal to 8, which was the maximum number the FPGA board could handle)
