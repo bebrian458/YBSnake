@@ -1,8 +1,8 @@
 # YBSnake
 
 Created by:
-	Brian Be
-	Yamato Sasaki
+	Brian Be,
+	Yamato Sasaki,
 	Sulmie Tran
 
 __Introduction__
